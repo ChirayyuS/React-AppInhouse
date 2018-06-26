@@ -16,13 +16,7 @@ const Main = (props) => {
                         <div> Edit Preference</div> 
                         <div> Privacy Option </div>
                     </div>
-                    {/* <div className="textStyle">Edit Profile</div>
-                    <br/>
-                    <div className = "textStyle">Manage Photo </div>
-                    <br />
-                    <div className = "textStyle" >Edit Preference </div>
-                    < br />
-                    <div className = "textStyle" >Privacy Option </div> */}
+                    
                 </div>
                 
             </div>
