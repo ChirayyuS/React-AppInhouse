@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* .photoSize {
+    width: 50px;
+    float: left;
+    height: 50px;
+    background: #fff;
+    padding: 25px;
+    border: 1px solid black;
+    
+} */
+
+.boxSize {
+    width: 500px;
+    height: 250px;
+    background: #fff;
+    padding: 25px;
+   
+    
+    
+}
+
+.textStyle{
+    
+    flex-direction: column;
+    float: left;
+    margin-top: 30px;
+    margin-left: 0px;
+       
+}
